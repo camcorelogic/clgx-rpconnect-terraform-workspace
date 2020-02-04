@@ -1,0 +1,5 @@
+sa-key.json
+*sa-key.json
+credentials.json
+.terraform
+.DS_Store
